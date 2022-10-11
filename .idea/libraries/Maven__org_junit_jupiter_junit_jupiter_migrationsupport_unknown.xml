@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.junit.jupiter:junit-jupiter-migrationsupport:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-migrationsupport/unknown/junit-jupiter-migrationsupport-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-migrationsupport/unknown/junit-jupiter-migrationsupport-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-migrationsupport/unknown/junit-jupiter-migrationsupport-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
